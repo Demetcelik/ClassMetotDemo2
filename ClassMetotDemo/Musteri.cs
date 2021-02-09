@@ -10,6 +10,5 @@ namespace ClassMetotDemo
         public string Ad { get; set; }
         public string Soyad { get; set; }
         public int HesapNo { get; set; }
-
     }
 }
